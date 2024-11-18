@@ -8,13 +8,9 @@ The goal of this project is to build a model that can look at an image and gener
 
 ## Dataset
 
-The dataset used for this project contains images with corresponding captions and includes:
-- **Images**: The images are preprocessed and resized as required by the chosen CNN model.
-- **Captions**: Each image is associated with one or more captions, which serve as ground truth for training. The captions are tokenized and transformed into sequences for the RNN.
+The dataset used for this project contains images with corresponding captions and includes
 
-Popular datasets for image captioning include:
-- **COCO (Common Objects in Context)**: A large dataset containing images of complex everyday scenes with captions.
-- **Flickr8k and Flickr30k**: Smaller datasets with diverse images and descriptive captions.
+**Flickr8k and Flickr30k**: Datasets with diverse images and descriptive captions.
 
 ## Technologies Used
 
