@@ -31,6 +31,10 @@ The following models are implemented to classify the audio genres:
 4. **K-Nearest Neighbors (KNN)**
 5. **Neural Network (using TensorFlow/Keras)**
 
+
+## Data Used
+
+Dataset: https://www.dropbox.com/s/4jw31k5mlzcmgis/genres.tar.gz?dl=0
 ## Results
 
 Each model outputs the following metrics:
