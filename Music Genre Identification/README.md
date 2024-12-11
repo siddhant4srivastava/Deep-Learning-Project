@@ -38,33 +38,6 @@ Each model outputs the following metrics:
 - **Log Loss**: Measures the uncertainty of predictions.
 - **Accuracy**: Measures the proportion of correctly classified samples.
 
-## Installation and Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/music-genre-identification.git
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Place the audio files in the directory structure:
-   ```
-   audio_path/
-       blues/
-       classical/
-       country/
-       disco/
-       hiphop/
-       jazz/
-       metal/
-       pop/
-       reggae/
-       rock/
-   ```
-
 4. Run the notebook or script to extract features, train models, and evaluate results.
 
 ## File Structure
