@@ -11,6 +11,7 @@ The goal of this project is to build a model that can look at an image and gener
 The dataset used for this project contains images with corresponding captions and includes
 
 **Flickr8k and Flickr30k**: Datasets with diverse images and descriptive captions.
+
 Dataset Link: https://www.dropbox.com/sh/q4dehgdtbo0b6vt/AABFoMwAxqEQWQnl_xQYY2fsa?dl=0
 
 
